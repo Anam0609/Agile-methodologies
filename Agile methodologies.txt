@@ -1,0 +1,25 @@
+What are the different techniques implemented in agile development?
+
+SCRUM:		- A list of all the deliverables for the project, named backlog, is identified and is continuosly updated. Project is divided into small units named sprint, lasting two weeks generally.
+		- Deliverable, which is visible and usable increment, is decided for each sprint.
+		- Actve communication in the team annd follow-up using the backlog help and ease the development.
+
+Key people: 	- The product Owner works closely with thier teams
+
+Advantages:  	● Flexibility and Adaptability
+		● Creativity and Innovation
+		● Time-to-Market
+		● Lower Costs and Improved Quality
+		● Improved Customer Satisfaction
+
+Disadvantages:	● Training and Skill Required- Requires experienced and committed members
+		● Organizational Transformation-may require changes to organisation to make it work
+		● Scalability
+		● Integration with Project/Program Management
+
+when to implement scrum: ● Sprint - The sprint is the backbone of Scrum. It’s a timebox of between one and four weeks during which an increment of product or service work is completed and ready to send to the customer. 
+			 ● Sprint Planning - The work to be completed in a sprint is planned by the entire Scrum team during planning.
+			 ● Daily Scrum - this is a 15-minute daily meeting where the Scrum team discusses that 	day’s work
+			 ● Sprint Review - Held at the end of a sprint, the sprint review is used to inspect the increment (work delivered) and adapt the product backlog,if required.
+			 ● Sprint Retrospective- A meeting of the entire Scrum team, the sprint retrospective is used to create improvement opportunities.
+
